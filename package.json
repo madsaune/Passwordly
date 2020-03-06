@@ -1,0 +1,27 @@
+{
+  "name": "passwordly",
+  "version": "0.1.0",
+  "description": "A simple password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madsaune/passwordly.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "node"
+  ],
+  "author": "Mads Moi-Aune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madsaune/passwordly/issues"
+  },
+  "homepage": "https://github.com/madsaune/passwordly",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
