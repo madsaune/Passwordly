@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/madsaune/passwordly",
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^29.3.1"
   }
 }
